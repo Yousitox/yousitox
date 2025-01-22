@@ -12,7 +12,7 @@
 - Sacandome los estudios de Asir.
 - Empezando a crear mis proyectos.
 - Por ahora no se mucho, pero se:
-- HTML / CSS (INTERMEDIO) / JS (APRENDIENDO CADA DIA MÁS) / LUA (EN SERVER DE FIVEM) / SQL (INTERMEDIO) / GIT (INTERMEDIO)
+- HTML (BIEN) / CSS (BASICO) / JS (BASICO) / LUA (EN SERVER DE FIVEM) / SQL (BASICO) / JAVA (BASICO PERO CADA DIA MAS)
 
 ## EEstadisticas
 
