@@ -9,7 +9,7 @@
 
 ## Sobre mi
 - Aprendiendo cada dia más.
-- Sacandome los estudios de Asir.
+- Sacandome los estudios de DAM.
 - Empezando a crear mis proyectos.
 - Por ahora no se mucho, pero se:
 - HTML (BIEN) / CSS (BASICO) / JS (BASICO) / LUA (EN SERVER DE FIVEM) / SQL (BASICO) / JAVA (BASICO PERO CADA DIA MAS)
