@@ -14,7 +14,7 @@
 - Por ahora no se mucho, pero se:
 - HTML (BIEN) / CSS (BASICO) / JS (BASICO) / LUA (EN SERVER DE FIVEM) / SQL (BASICO) / JAVA (BASICO PERO CADA DIA MAS)
 
-## EEstadisticas
+## Estadisticas
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousitox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yousitox's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousitox&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
