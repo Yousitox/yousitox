@@ -1,22 +1,43 @@
-### Hola soy Yousitox 👋
+<h1 align="center">Hola, soy Yousitox 👋</h1>
 
-![@unsitiogenial (3) recortado](https://github.com/Yousitox/yousitox/assets/108738606/59d0925a-c4c8-4241-904b-aea21dde01ec)
+<p align="center">
+  <img src="https://github.com/Yousitox/yousitox/assets/108738606/59d0925a-c4c8-4241-904b-aea21dde01ec" alt="Foto de perfil" width="200"/>
+</p>
 
-## Mis Redes
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Yousitox-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Yousitoxs)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Yousitox-black?logo=github&logoColor=white)](https://github.com/Yousitox)
-[![Instagram Profile](https://img.shields.io/badge/Instagram-Yousitox-rosybrown?logo=instagram&logoColor=white)](https://www.instagram.com/yousitox/)
+---
 
-## Sobre mi
-- Aprendiendo cada dia más.
-- Empezando a crear mis proyectos.
-- Por ahora no se mucho, pero se:
-- HTML (BIEN) / CSS (BASICO) / JS (BASICO) / LUA (EN SERVER DE FIVEM) / SQL (BASICO) / JAVA (BASICO PERO CADA DIA MAS)
+## 🌐 Mis Redes
 
-## Estadisticas
+<p align="center">
+  <a href="https://www.youtube.com/@Yousitoxs">
+    <img src="https://img.shields.io/badge/YouTube-Yousitox-red?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yousitox">
+    <img src="https://img.shields.io/badge/GitHub-Yousitox-black?logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yousitox/">
+    <img src="https://img.shields.io/badge/Instagram-Yousitox-rosybrown?logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousitox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yousitox's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousitox&layout=compact&theme=buefy&hide_border=true" /></a> |
+---
+
+## 🙋 Sobre mí
+
+- 🚀 Apasionado por la tecnología y el desarrollo.
+- 🎯 En constante aprendizaje y mejora.
+- 🛠️ Trabajando en proyectos propios y aprendiendo con la práctica.
+- 📚 Conocimientos actuales:
+  - **HTML** (Avanzado)
+  - **CSS / JavaScript / SQL / Java / Lua (FiveM)** (Básico, pero mejorando cada día)
+
+---
+
+## 📊 Estadísticas
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yousitox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousitox&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más usados" /></a> |
 | ------------- | ------------- |
 
+---
 
-
+<p align="center">¡Gracias por visitar mi perfil! 😊</p>
