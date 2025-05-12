@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Yousitox 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Yousitox/yousitox/assets/108738606/59d0925a-c4c8-4241-904b-aea21dde01ec" alt="Foto de perfil" width="200"/>
+  <img src="https://github.com/Yousitox/yousitox/assets/108738606/59d0925a-c4c8-4241-904b-aea21dde01ec" alt="Foto de perfil" width="400"/>
 </p>
 
 ---
